@@ -1,0 +1,10 @@
+C:\CRM_ develop\11day\Task12Plugin\UDS.TestEduPlugin\UDS.TestEduPlugin\bin\Debug\Task12Plugin.dll
+C:\CRM_ develop\11day\Task12Plugin\UDS.TestEduPlugin\UDS.TestEduPlugin\bin\Debug\Task12Plugin.pdb
+C:\CRM_ develop\11day\Task12Plugin\UDS.TestEduPlugin\UDS.TestEduPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\CRM_ develop\11day\Task12Plugin\UDS.TestEduPlugin\UDS.TestEduPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\CRM_ develop\11day\Task12Plugin\UDS.TestEduPlugin\UDS.TestEduPlugin\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\CRM_ develop\11day\Task12Plugin\UDS.TestEduPlugin\UDS.TestEduPlugin\obj\Debug\Task12Plugin.csprojAssemblyReference.cache
+C:\CRM_ develop\11day\Task12Plugin\UDS.TestEduPlugin\UDS.TestEduPlugin\obj\Debug\Task12Plugin.csproj.CoreCompileInputs.cache
+C:\CRM_ develop\11day\Task12Plugin\UDS.TestEduPlugin\UDS.TestEduPlugin\obj\Debug\Task12Plugin.csproj.CopyComplete
+C:\CRM_ develop\11day\Task12Plugin\UDS.TestEduPlugin\UDS.TestEduPlugin\obj\Debug\Task12Plugin.dll
+C:\CRM_ develop\11day\Task12Plugin\UDS.TestEduPlugin\UDS.TestEduPlugin\obj\Debug\Task12Plugin.pdb
