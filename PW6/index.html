@@ -1,0 +1,42 @@
+<html>
+<head>
+    <script src="ClientGlobalContext.js.aspx" type="text/javascript"></script>
+    <script>
+        function ChangeState()
+        {
+            debugger
+            var selector = document.getElementById("id_for_select");
+            var field = selector[selector.selectedIndex].value;
+            switch(field) {
+                case "new_lookup":
+                    window.opener.Xrm.Page.getAttribute("new_lookup").setRequiredLevel("required");
+                    break;
+                case "new_testtextfield":
+                    window.opener.Xrm.Page.getAttribute("new_testtextfield").setRequiredLevel("required");
+                    break;
+                case "new_date":
+                    window.opener.Xrm.Page.getAttribute("new_date").setRequiredLevel("required");
+                    break;
+                case "new_wholenumber":
+                    window.opener.Xrm.Page.getAttribute("new_wholenumber").setRequiredLevel("required");
+                    break;
+                case "new_optionset":
+                    window.opener.Xrm.Page.getAttribute("new_optionset").setRequiredLevel("required");
+                    break;
+            }
+            window.close();
+
+        }
+    </script>
+</head>
+<body>
+<select id="id_for_select">
+    <option Value="new_lookup">Lookup</option>
+    <option Value="new_testtextfield">Test Text Field</option>
+    <option Value="new_date">Date</option>
+    <option Value="new_wholenumber">Whole number</option>
+    <option Value="new_optionset">Option set</option>
+</select>
+<button type="button" onclick="ChangeState(); return false;">Ok</button>
+</body>
+</html>
