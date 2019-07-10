@@ -1,0 +1,233 @@
+D:\Temp\WebEduService\WebApplication1\bin\ApplicationInsights.config
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\csc.exe
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\csc.exe.config
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\csc.rsp
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\csi.exe
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\csi.rsp
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\vbc.exe
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\vbc.rsp
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Temp\WebEduService\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Temp\WebEduService\WebApplication1\bin\WebApplication1.dll.config
+D:\Temp\WebEduService\WebApplication1\bin\WebApplication1.dll
+D:\Temp\WebEduService\WebApplication1\bin\WebApplication1.pdb
+D:\Temp\WebEduService\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.Crm.Sdk.Proxy.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.Xrm.Sdk.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.Xrm.Sdk.Workflow.dll
+D:\Temp\WebEduService\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Temp\WebEduService\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Helpers.dll
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Http.dll
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Mvc.dll
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Optimization.dll
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Razor.dll
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.WebPages.dll
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Temp\WebEduService\WebApplication1\bin\WebGrease.dll
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Helpers.xml
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Mvc.xml
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Optimization.xml
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Razor.xml
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.WebPages.xml
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Temp\WebEduService\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Temp\WebEduService\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Temp\WebEduService\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Http.xml
+D:\Temp\WebEduService\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\Temp\WebEduService\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\Temp\WebEduService\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Temp\WebEduService\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Temp\WebEduService\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\ApplicationInsights.config
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\csc.exe
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\csc.exe.config
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\csc.rsp
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\csi.exe
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\csi.rsp
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\vbc.exe
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\vbc.exe.config
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\vbc.rsp
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\WebApplication1.dll.config
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\WebApplication1.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\WebApplication1.pdb
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Antlr3.Runtime.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.Crm.Sdk.Proxy.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.Xrm.Sdk.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.Xrm.Sdk.Workflow.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Newtonsoft.Json.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Helpers.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Http.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Mvc.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Optimization.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Razor.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.WebPages.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\WebGrease.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Helpers.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Mvc.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Optimization.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Razor.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.WebPages.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Newtonsoft.Json.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Http.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\obj\Debug\WebApplication1.dll
+C:\CRM_ develop\12day\Task1314WebRes\WebEduService\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\ApplicationInsights.config
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\csc.exe
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\csc.exe.config
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\csc.rsp
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\csi.exe
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\csi.rsp
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\vbc.exe
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\vbc.exe.config
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\vbc.rsp
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\WebApplication1.dll.config
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\WebApplication1.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\WebApplication1.pdb
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Antlr3.Runtime.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.Crm.Sdk.Proxy.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.Xrm.Sdk.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.Xrm.Sdk.Workflow.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Newtonsoft.Json.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Helpers.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Http.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Mvc.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Optimization.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Razor.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.WebPages.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\WebGrease.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Helpers.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Mvc.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Optimization.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Razor.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.WebPages.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Newtonsoft.Json.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Http.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\obj\Debug\WebApplication1.dll
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\CRM_ develop\12day\Task14\WebEduService\WebApplication1\bin\MvcCheckBoxList.dll

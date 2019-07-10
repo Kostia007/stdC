@@ -1,0 +1,36 @@
+﻿@model WebApplication1.Controllers.HomeController.RecordsList
+
+@{
+    ViewBag.Title = "About";
+}
+<h2>About</h2>
+<table>
+    @using (Html.BeginForm("About", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+
+        for (int idx = 0; idx < Model.recordss.Count; idx++)
+        {
+
+            <tr>
+                <td>
+                    @Html.HiddenFor(x => Model.recordss[idx].ID)
+                    @Html.CheckBoxFor(x => Model.recordss[idx].IsSelected)
+                    @Html.DisplayFor(x => Model.recordss[idx].RecordsName)
+                    @Html.HiddenFor(x => Model.recordss[idx].RecordsName)
+                </td>
+            </tr>
+        }
+        <span>Select File:</span>
+        @Html.TextBoxFor(m => Model.PostedFile, new { type = "file" })
+        <br />
+        @Html.ValidationMessageFor(m => Model.PostedFile, "", new { @class = "error" })
+        <hr />
+        <input type="submit" value="Upload" />
+        <br />
+    }
+
+
+
+
+    <p>Use this area to provide additional information.</p>
+</table>
