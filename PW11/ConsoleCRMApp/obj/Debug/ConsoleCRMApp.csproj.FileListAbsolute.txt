@@ -1,0 +1,43 @@
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.csprojResolveAssemblyReference.cache
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.exe.config
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.exe
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.pdb
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.exe
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.pdb
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\UDS.TestEduPlugin.dll
+D:\Temp\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\UDS.TestEduPlugin.pdb
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.exe.config
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.exe
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.pdb
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\UDS.TestEduPlugin.dll
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\UDS.TestEduPlugin.pdb
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.csprojAssemblyReference.cache
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.csproj.CoreCompileInputs.cache
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.csproj.CopyComplete
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.exe
+C:\CRM_ develop\template plugin\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.pdb
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.csprojAssemblyReference.cache
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.csproj.CoreCompileInputs.cache
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.exe
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.pdb
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.exe.config
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.exe
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.pdb
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\CRM_ develop\10day\Test Edu Plugin\UDS.TestEduPlugin\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.csproj.CopyComplete
+C:\CRM_ develop\10day\PW11\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.exe.config
+C:\CRM_ develop\10day\PW11\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.exe
+C:\CRM_ develop\10day\PW11\ConsoleCRMApp\bin\Debug\ConsoleCRMApp.pdb
+C:\CRM_ develop\10day\PW11\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.csprojAssemblyReference.cache
+C:\CRM_ develop\10day\PW11\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.csproj.CoreCompileInputs.cache
+C:\CRM_ develop\10day\PW11\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.csproj.CopyComplete
+C:\CRM_ develop\10day\PW11\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.exe
+C:\CRM_ develop\10day\PW11\ConsoleCRMApp\obj\Debug\ConsoleCRMApp.pdb
